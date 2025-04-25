@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestTienda", "ApiRestTienda\ApiRestTienda.csproj", "{C3411607-AF7E-4C56-966D-0C29F1728F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAI", "ChatAI\ChatAI.csproj", "{3CF018BF-9B0F-46E7-A88C-1394CB78EC41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3411607-AF7E-4C56-966D-0C29F1728F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3411607-AF7E-4C56-966D-0C29F1728F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3411607-AF7E-4C56-966D-0C29F1728F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3411607-AF7E-4C56-966D-0C29F1728F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF018BF-9B0F-46E7-A88C-1394CB78EC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF018BF-9B0F-46E7-A88C-1394CB78EC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF018BF-9B0F-46E7-A88C-1394CB78EC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF018BF-9B0F-46E7-A88C-1394CB78EC41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F78EB9-C754-42BA-8A3C-A00CE232B19E}
+	EndGlobalSection
+EndGlobal
